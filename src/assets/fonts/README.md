@@ -1,0 +1,1 @@
+Place Playfair Display font files here (e.g., .woff, .woff2). Update index.css @font-face URLs if you change names.
